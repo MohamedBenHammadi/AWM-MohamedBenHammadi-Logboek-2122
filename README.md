@@ -1,6 +1,6 @@
 # AWM-MohamedBenHammadi-Logboek-2122
-Naam docent : Stevens Ophalvens
-Domein naam : /
+* Naam docent : Stevens Ophalvens
+* Domein naam : /
 
 # Logboek Advanced Web & Mobile - Mohamed Ben Hammadi
 
