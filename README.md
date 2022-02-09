@@ -11,7 +11,7 @@ Domein naam : /
     * Slides overlopen : 0.20 uur
     * Aanmaken van een nieuwe repo : 0.25 uur
     * Aanmaken van .md logboek : 0.25 uur
-    *
+    
 *  inleiding van het van AWM
     * Slides overlopen van firebase : 0.25 uur
     * het doel van onze app : 0.20 uur
