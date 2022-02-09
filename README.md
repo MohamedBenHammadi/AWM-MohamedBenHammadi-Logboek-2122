@@ -20,6 +20,7 @@ Domein naam : /
 *  Bronnen
     * https://firebase.google.com/docs/guides
     * https://firebase.google.com/codelabs/firebase-web?authuser=0#3
+    * https://www.youtube.com/watch?v=O17OWyx08Cg
     
  
     
