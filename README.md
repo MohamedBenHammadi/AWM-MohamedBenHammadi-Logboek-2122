@@ -15,7 +15,7 @@
 *  inleiding van het van AWM
     * Slides overlopen van firebase : 0.25 uur
     * het doel van onze app : 0.20 uur
-    * verdeling van taken : 0.30 uur
+    * verdeling van taken : 0.10 uur
 
 *  Bronnen
     * https://firebase.google.com/docs/guides
