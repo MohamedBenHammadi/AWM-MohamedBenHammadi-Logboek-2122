@@ -24,6 +24,30 @@
     * codelab zelf maken : 1.15 uur
     * Foutmelding zoeken van mijn codelab : 1.10 uur
     * Bespreking over ons project: 0.15
+    
+  
+ ## Week 3 - 9.45 uur
+ 
+*  Proejct AWM
+    * Mockup maken : 1.30 uur
+    * introductie React Native : 4 uur
+    * LginScreen maken : 4.10 uur
+    * Bespreking over ons project: 0.15
+
+ ## Week 4 - 8.25 uur
+ 
+*  Proejct AWM
+    * Mockup aanpassen : 1.00 uur
+    * Video bekijken over React Native: 2.15 uur
+    * aanpassingen van loginscreen: 5.10 uur
+
+ ## Week 5 - 6.00 uur
+ 
+*  Proejct AWM
+    * Registerscreen aanmaken : 2.45 uur
+    * Eerste login testen: 3.15 uur
+   
+  
 
 *  Bronnen
     * https://firebase.google.com/docs/guides
@@ -31,6 +55,9 @@
     * https://www.youtube.com/watch?v=O17OWyx08Cg
     * https://stackoverflow.com/questions/38671444/user-does-not-have-permission-to-access-this-object-firebase-storage-android
     * https://www.youtube.com/watch?v=VvseuCP14-s&t=1938s
+    * https://www.youtube.com/watch?v=0-S5a0eXPoc&list=PL4TvnFxwYd5vJ-5xeYA3xbMzfFymqzNeN&index=5&t=3973s
+    * https://reactnative.dev/
+    * https://www.youtube.com/watch?v=X8ipUgXH6jw
     
  
     
