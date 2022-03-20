@@ -46,7 +46,12 @@
 *  Proejct AWM
     * Registerscreen aanmaken : 2.45 uur
     * Eerste login testen: 3.15 uur
-   
+
+## Week 6 - 3.00 uur
+ 
+*  Proejct AWM
+    * firebase project aanmaken : 0.45 uur
+    * Navigatie app: 2.15 uur
   
 
 *  Bronnen
