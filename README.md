@@ -53,7 +53,12 @@
     * firebase project aanmaken : 0.45 uur
     * Navigatie app: 2.15 uur
 
-## Week 7 - 1.05 uur
+## Week 7 - 0.00 uur
+ 
+*  Ik heb deze weel niet aan het project gewerkt omdat ik geen tijd had
+    
+
+## Week 8 - 1.05 uur
  
 *  Proejct AWM
     * Info over het implementeren van firebase in react native :0.45
