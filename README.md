@@ -52,6 +52,13 @@
 *  Proejct AWM
     * firebase project aanmaken : 0.45 uur
     * Navigatie app: 2.15 uur
+
+## Week 7 - 1.05 uur
+ 
+*  Proejct AWM
+    * Info over het implementeren van firebase in react native :0.45
+    * Deze week iets minder gewerkt omdat er andere projecten waren(Integration)
+    * youtube video bekeken voor meer info0.20
   
 
 *  Bronnen
@@ -63,6 +70,8 @@
     * https://www.youtube.com/watch?v=0-S5a0eXPoc&list=PL4TvnFxwYd5vJ-5xeYA3xbMzfFymqzNeN&index=5&t=3973s
     * https://reactnative.dev/
     * https://www.youtube.com/watch?v=X8ipUgXH6jw
+    * https://rnfirebase.io/
+    * https://www.youtube.com/watch?v=LYi1gwPWDto
     
  
     
