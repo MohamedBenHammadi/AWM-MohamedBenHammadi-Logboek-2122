@@ -64,6 +64,34 @@
     * Info over het implementeren van firebase in react native :0.45
     * Deze week iets minder gewerkt omdat er andere projecten waren(Integration)
     * youtube video bekeken voor meer info0.20
+
+## Week 9 - 24 uur
+ 
+*  Proejct AWM
+   * Google maps pagina geinplementeerd
+   * Map pagina aangemaakt
+   * Navigatie probleem gefixt
+   * android en Ios bundle toegevoegd ( die hadden we vergeten bij het aanmaken van het project)
+   * aap op de emulator laten starten
+   
+   
+   ## Week 10 - 16 uur
+ 
+*  Proejct AWM
+   * android .apk file gemaakt om in de play store te downloaden (momenteel lukt het niet error)
+   * Browse pagina aangemaakt 
+   * Profiel pagina aangemaakt en klaar
+   * design verbterd en ook andere paginas (order)
+   * build van app verbterd en verzuinigd
+
+   
+   ## Week 11 - 0 uur
+ 
+  * Projectweek dus heb ik niks kunnen doen voor AWM
+   
+   
+
+
   
 
 *  Bronnen
@@ -74,7 +102,13 @@
     * https://www.youtube.com/watch?v=VvseuCP14-s&t=1938s
     * https://www.youtube.com/watch?v=0-S5a0eXPoc&list=PL4TvnFxwYd5vJ-5xeYA3xbMzfFymqzNeN&index=5&t=3973s
     * https://reactnative.dev/
+    * https://firebase.google.com/docs/firestore/data-model
+    * https://www.youtube.com/watch?v=-Gvpf8tXpbc
+    * https://firebase.google.com/docs/storage/web/upload-files
     * https://www.youtube.com/watch?v=X8ipUgXH6jw
+    * https://forums.expo.dev/t/can-t-connect-to-metro-bundler/32691/2
+    * https://rnfirebase.io/
+    * https://github.com/expo/expo-cli/issues/2934
     * https://rnfirebase.io/
     * https://www.youtube.com/watch?v=LYi1gwPWDto
     
