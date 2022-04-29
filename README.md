@@ -88,6 +88,16 @@
    ## Week 11 - 0 uur
  
   * Projectweek dus heb ik niks kunnen doen voor AWM
+
+
+   ## Week 12 - 20 uur
+ 
+*  Proejct AWM
+   * Firebase implementeren
+   * Rules gemaakt
+   * Firestore configueren
+   * Probleem met Google play store verbeterd
+ 
    
    
 
