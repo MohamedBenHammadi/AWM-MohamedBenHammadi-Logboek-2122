@@ -98,10 +98,23 @@
    * Firestore configueren
    * Probleem met Google play store verbeterd
  
-   
-   
+ 
+    ## Week 13 - 26 uur
+ 
+*  Proejct AWM
+   * Login aanmekn met firebase (email)
+   * Log out probleem configureren
+   * connectie met de firestore db aanmaken
 
 
+    ## Week 14 - 45 uur
+ 
+*  Proejct AWM
+   * Login aanmekn met google en facebook (werkt enkel op web)
+   * App in store brengen 
+   * HomePagina updaten met firebase
+   * Google maps implmenteren met firebase
+   * probleem regelen met de google Auht
   
 
 *  Bronnen
@@ -114,12 +127,21 @@
     * https://reactnative.dev/
     * https://firebase.google.com/docs/firestore/data-model
     * https://www.youtube.com/watch?v=-Gvpf8tXpbc
+    * https://www.section.io/engineering-education/react-native-firebase-facebook-authentication/
     * https://firebase.google.com/docs/storage/web/upload-files
     * https://www.youtube.com/watch?v=X8ipUgXH6jw
+    * https://medium.com/hackernoon/email-authentication-with-react-native-and-firebase-99b5e9a579e0
+    * https://www.youtube.com/watch?v=bZMSoxcrIN8
+    * https://stackoverflow.com/questions/63974553/cannot-resolve-module-firebase-from-firebase-js-firebase-could-not-be-foun
     * https://forums.expo.dev/t/can-t-connect-to-metro-bundler/32691/2
+    * https://www.youtube.com/watch?v=3JXdWAahy5A
+    * https://stackoverflow.com/questions/62007587/how-to-navigate-on-the-another-page-after-google-sign-in
     * https://rnfirebase.io/
+    * https://www.pradipdebnath.com/2020/10/06/how-to-implement-google-login-in-react-native-with-firebase/
     * https://github.com/expo/expo-cli/issues/2934
+    * https://reddit.fun/105816/verification-email-during-registration-firebase-react-native
     * https://rnfirebase.io/
+    * https://instamobile.io/react-native-tutorials/facebook-login-react-native-firebase/
     * https://www.youtube.com/watch?v=LYi1gwPWDto
     
  
