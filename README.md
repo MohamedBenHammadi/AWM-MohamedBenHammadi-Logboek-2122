@@ -116,6 +116,15 @@
    * Google maps implmenteren met firebase
    * probleem regelen met de google Auht
   
+      ## Week 15 - 35 uur
+ 
+*  Proejct AWM
+   *  Producten pagina (Get)
+   * Resolve Google Maps op Android
+   * Profile page Update methode
+
+
+
 
 *  Bronnen
     * https://firebase.google.com/docs/guides
