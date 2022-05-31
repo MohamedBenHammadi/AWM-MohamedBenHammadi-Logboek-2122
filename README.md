@@ -123,6 +123,13 @@
    * Resolve Google Maps op Android
    * Profile page Update methode
 
+  ## Week 16 - 50 uur
+ 
+*  Proejct AWM
+   *  User profile aanmaken en firebase implementeren
+   * Resolve Google Maps op Android
+   * HomeScreen verandert (geen hardcoded data's meer)
+   * OrderScreen aanmaken 
 
 
 
