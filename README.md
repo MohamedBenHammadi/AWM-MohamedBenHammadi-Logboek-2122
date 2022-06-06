@@ -131,6 +131,14 @@
    * HomeScreen verandert (geen hardcoded data's meer)
    * OrderScreen aanmaken 
 
+  ## Week 17 - 30 uur
+ 
+*  Proejct AWM
+   *  orderPage bewerken
+   * OrderPage maken (back-end code)
+   * Documentatie verder werken
+   * Powerpoint aanmaken 
+
 
 
 *  Bronnen
@@ -153,8 +161,11 @@
     * https://www.youtube.com/watch?v=3JXdWAahy5A
     * https://stackoverflow.com/questions/62007587/how-to-navigate-on-the-another-page-after-google-sign-in
     * https://rnfirebase.io/
+    * https://stackoverflow.com/questions/58143184/google-maps-api-key-not-working-on-new-proyect
+    * https://stackoverflow.com/questions/47658765/objects-are-not-valid-as-a-react-child-found-object-promise
     * https://www.pradipdebnath.com/2020/10/06/how-to-implement-google-login-in-react-native-with-firebase/
     * https://github.com/expo/expo-cli/issues/2934
+    * https://stackoverflow.com/questions/47658765/objects-are-not-valid-as-a-react-child-found-object-promise
     * https://reddit.fun/105816/verification-email-during-registration-firebase-react-native
     * https://rnfirebase.io/
     * https://instamobile.io/react-native-tutorials/facebook-login-react-native-firebase/
